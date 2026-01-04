@@ -4,4 +4,4 @@ Questo repository contiene il codice sviluppato per il progetto DATASCIENCE, fin
 📄 **Report Finale**
 
 Potete trovare il report completo del progetto qui:  
-[Clustering.pdf](Clustering.pdf)
+[Clustering.pdf](clustering.pdf)
